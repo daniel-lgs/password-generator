@@ -1,4 +1,4 @@
-# Password generator
+# Password generator 🔑
 
 You need more secure passwords, try this generator and customize it your way.
 
